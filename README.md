@@ -20,7 +20,8 @@ Make sure you check the number one box!
 ![](docs/tl4.png)
 
 ## Step 3: Install me
-1. Download and unzip this library.
+1. Download and unzip (extract) this library.
+![](docs/gh1.png)
 2. Run *first.py* by double clicking. It will remove itself when it's done (and some unnecessary files too).
 3. Go into Minecraft. Main Menu > Options > Resource Packs. Add the *objmc* resource pack inside the game.
 ![](docs/mc1.png)
