@@ -33,7 +33,7 @@ def generate_color_array(filename, f_mtl):
     for line in lines:
         line = line.decode('utf-8')
         if line[0] == 'n':
-            if len(colors) < MAX_COLORS:
+            if len(colors) == MAX_COLORS:
                 print('Used all ${MAX_COLORS} colors!')
                 break # Handle this properly...
             color = line.split()[1]
